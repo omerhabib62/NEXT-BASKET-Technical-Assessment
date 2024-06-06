@@ -1,5 +1,5 @@
-# NEXT-BASKET-Technical-Assessment
-NEXT BASKET Technical Assessment for Senior PHP Developer (Pakistan) 
+# NEXT-BASKET
+Technical Assessment for Senior PHP Developer (Pakistan). Worked on DDD.
 
 # Symfony-Based Microservices Example
 
