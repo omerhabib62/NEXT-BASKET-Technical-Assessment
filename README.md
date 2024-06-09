@@ -1,4 +1,5 @@
 # NEXT-BASKET
+
 Technical Assessment for Senior PHP Developer (Pakistan). Worked on DDD.
 
 # Symfony-Based Microservices Example
@@ -6,17 +7,20 @@ Technical Assessment for Senior PHP Developer (Pakistan). Worked on DDD.
 ## Setup
 
 1. **Clone the repository**:
+
     ```sh
     git clone <repository-url>
     cd <repository-directory>
     ```
 
 2. **Start the services**:
+
     ```sh
     docker-compose up --build
     ```
 
 3. **Run the tests**:
+
     ```sh
     cd users
     php bin/phpunit
@@ -35,4 +39,3 @@ Technical Assessment for Senior PHP Developer (Pakistan). Worked on DDD.
 - Docker
 - RabbitMQ
 - PHPUnit
-
